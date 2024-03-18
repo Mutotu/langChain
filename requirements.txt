@@ -10,3 +10,4 @@ pandas
 aiohttp
 pyYAML
 numpy
+langchain_experimental
